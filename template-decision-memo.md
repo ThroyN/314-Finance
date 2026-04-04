@@ -1,17 +1,17 @@
 # [B2Gold Corp]
 
 **Created by:** [Throy Nicdao]
-**Updated by:** [Throy Nicdak]
+**Updated by:** [Throy Nicdao]
 **Date Created:** [04/03/2026]
 **Date Updated:** [04/03/2026]
 **Version:** [1.0]
-**LLM Used:** [LLM] (CLaude, ChatGpt)
+**LLM Used:** [Claude, ChatGPT] ()
 
 ---
 
 ## Executive Summary (150 words max)
 
-This memo outlines the plan for a full accounting ratio analysis of B2Gold Corp (NYSE: BTG), a mid-tier gold mining company with operations across Mali, Namibia, and the Philippines. The goal is to evaluate the company’s financial performance, efficiency, and overall financial position using structured ratio analysis rather than relying only on raw financial statements. This analysis will focus on six key categories including performance, profitability, efficiency, leverage, liquidity, and DuPont. Financial data will be pulled from the company’s most recent 10-K through SEC EDGAR and supported with data from Yahoo Finance. The results will help identify strengths, risks, and areas for improvement, and will be used to support strategic recommendations in later stages.
+This memo outlines the plan for a full accounting ratio analysis of B2Gold Corp (NYSE: BTG), a mid-tier gold mining company with operations across Mali, Namibia, and the Philippines. The goal is to evaluate the company’s financial performance, efficiency, and overall financial position using structured ratio analysis rather than relying only on raw financial statements. This analysis will focus on six key categories, including performance, profitability, efficiency, leverage, liquidity, and DuPont. Financial data will be pulled from the company’s most recent 10-K through SEC EDGAR and supported with data from Yahoo Finance. The results will help identify strengths, risks, and areas for improvement, and will be used to support strategic recommendations in later stages.
 ---
 
 ## Company Background & Objectives
@@ -21,16 +21,19 @@ B2Gold Corp is a publicly traded gold mining company operating in a capital-inte
 
 ## Approach
 
-Describe the methodology: what data you will use, what ratio categories you will analyze, and how the results will be structured. Keep the language clear so non-technical readers can follow the plan.
-
+This analysis will use financial data from SEC EDGAR, Yahoo Finance, and company investor reports. Six ratio categories will be evaluated: performance to measure revenue trends, profitability to assess margins, efficiency to evaluate asset usage, leverage to analyze debt levels, liquidity to determine short-term financial stability, and DuPont analysis to break down return on equity into its core components. The results will be organized in a structured model that allows for clear comparison and interpretation of the company’s financial condition.
 ---
 
 ## Limitations & Next Steps
 
-Acknowledge any known constraints, assumptions, or data gaps. Then describe the immediate next steps (technical spec, model build, etc.) and how they connect to the final analysis.
+One limitation of this analysis is the impact of gold price volatility and political stability, which can affect financial results and distort year-over-year comparisons. Additionally, operating across multiple international regions may introduce variability in costs and reporting. In Stage 2, an Excel model will be built to calculate all ratios using real financial data. In Stage 3, a technical specification will document the model structure and formulas. In Stage 4, the results will be analyzed to provide strategic recommendations.
 
 ---
 
 ## References
 
-List any sources, data sets, or foundational research that informed this memo. Use a consistent citation style (APA, MLA, or Chicago).
+https://www.sec.gov/edgar/search/#/ciks=0001429937&entityName=B2GOLD%2520CORP%2520(BTG)%2520(CIK%25200001429937)
+
+https://finance.yahoo.com/quote/BTG/
+
+https://www.b2gold.com/investors/
